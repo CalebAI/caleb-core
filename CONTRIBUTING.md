@@ -57,8 +57,10 @@ Please find the list of adopted tools below:
 
 - You can finally [raise a PR on Github](https://help.github.com/articles/about-pull-requests/) to be reviewed and merged. 
 
-If accepted, your fork will be pulled into the original repository. **Make sure you never push or merge your Pull Requests**. Let another reviewer review your request.
+If accepted, your fork will be pulled into the original repository. 
+
+**Make sure you never push or merge your Pull Requests**. Let another reviewer review your request.
 
 **Important**:
 
-Even if you have write permission to the master branch of your fork, make sure you never work on the master branch
+Even if you have write permission to the master branch of your fork, make sure you never work on the master branch.
