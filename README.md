@@ -1,5 +1,5 @@
 # Caleb (Core) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
-Quad is an open source and completely customizable Smart Assistant.
+Caleb is an open source and completely customizable Smart Assistant.
 The aim of this project is to create a fully functioning and user friendly voice oriented smart assistant that could interact with you in multiple ways through "features". 
 
 In the market of voice oriented smart assistants, which is getting completely owned by big players like Google, Microsoft and Amazon, I think that a totally open source project which will run on a free OS like **Windows IOT**, powered by a cheap and affordable hardware like **Raspberry Pi 3**, could become something that people and developers will actually use and enjoy updating and changing as they please.
@@ -9,7 +9,7 @@ In particular, the Core, Features and the Enclosure, will be implemented as UWP 
 
 # Introduction
 
-Quad echosystem will be organised as follows:
+Caleb echosystem will be organised as follows:
 
 The **Core** project will provide the Kernel, the basic architecture components the will be used by the **Features** to expose the actual functionalities and by the **Enclosure**, to send notificafion signals to any additional supported hardware like, lights, led screen, etc.
 
@@ -23,5 +23,5 @@ I strongly believe that sharing Quad source code could ignite the interest of th
 
 # Contributing
 
-Quad is completely open source. If you want to help, please follow the steps shown in the [Contribution guidelines](CONTRIBUTING.md).
+Caleb is completely open source. If you want to help, please follow the steps shown in the [Contribution guidelines](CONTRIBUTING.md).
 
