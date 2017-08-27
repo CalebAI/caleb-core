@@ -1,7 +1,7 @@
 # Contributing
 
 If you want to help making the next level of the Smart Assistants this is the right place.
-To become a contributor for **Quad** you can follow the steps described below:
+To become a contributor for **Caleb** you can follow the steps described below:
 
 ## Getting started
 
