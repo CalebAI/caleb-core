@@ -1,4 +1,4 @@
-# Quad (Core) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
+# Caleb (Core) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 Quad is an open source and completely customizable Smart Assistant.
 The aim of this project is to create a fully functioning and user friendly voice oriented smart assistant that could interact with you in multiple ways through "features". 
 
