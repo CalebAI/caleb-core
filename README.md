@@ -1,11 +1,11 @@
 # Caleb (Core) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 Caleb is an open source and completely customizable Smart Assistant.
-The aim of this project is to create a fully functioning and user friendly voice oriented smart assistant that could interact with you in multiple ways through "features". 
+The aim of this project is to create a fully functioning and user friendly voice oriented smart assistant that could interact with you in multiple ways through "skills". 
 
 In the market of voice oriented smart assistants, which is getting completely owned by big players like Google, Microsoft and Amazon, I think that a totally open source project which will run on a free OS like **Windows IOT**, powered by a cheap and affordable hardware like **Raspberry Pi 3**, could become something that people and developers will actually use and enjoy updating and changing as they please.
 
 The entire system is being designed adopting C# .NET technology. 
-In particular, the Core, Features and the Enclosure, will be implemented as UWP apps running on Windows IOT. 
+In particular, the Core, Skills and the Enclosure, will be implemented as UWP apps and .NetStandard libraries running on Windows IOT. 
 
 # Introduction
 
