@@ -19,7 +19,7 @@ The **Hardware Enclosure** is a low-level component which will sit right below t
 
 A **Feature** could be something relatively simple like checking your Gmail account, tell you the latest weather forecasts, advice you on the latest news. This is the kind of skills that Alexa, Google Home and Cortana already have, by the way, my vision of Caleb is to be much more than that. The idea of making the entire system open source should increment the amount of features that the app will be capable to fulfill, Caleb could be able to interact with as many smart appliances as possible, like Nest, WeMo, Blink. It could interact with your car, with your oven, with your fridge, it could even order for you groceries, checking what is missing from the fridge first. The possibilities are endless.
 
-I strongly believe that sharing Quad source code could ignite the interest of the open source community, bringing the Artificial Intelligence and Voice Controlled software to grow faster making it available to everyone. My hope is to create a community around this project to create the most easy to use, efficient and reliable voice assistant available.
+I strongly believe that sharing Caleb's source code could ignite the interest of the open source community, bringing the Artificial Intelligence and Voice Controlled software to grow faster making it available to everyone. My hope is to create a community around this project to create the most easy to use, efficient and reliable voice assistant available.
 
 # Contributing
 
